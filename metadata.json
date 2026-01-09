@@ -1,0 +1,5 @@
+{
+  "name": "Salary Sheet",
+  "description": "A high-performance salary management application with automated deductions for advances, loans (EMIs), and bank charges, featuring AI-powered financial insights.",
+  "requestFramePermissions": []
+}
